@@ -1,0 +1,25 @@
+{
+	"formatVersion": 1,
+	"name": "Wisconsin",
+	"updatedAt": "2026-08-14T19:18:01.772Z",
+	"layers": [
+		{
+			"kind": "annotation",
+			"id": "54f5139f-cd3f-4876-90aa-bbb98721ac91",
+			"name": "Annotations 1",
+			"visible": true,
+			"order": 0,
+			"geojsonRef": "annotations/54f5139f-cd3f-4876-90aa-bbb98721ac91.geojson"
+		},
+		{
+			"kind": "map",
+			"id": "6592f484-f817-4e7e-bc5c-a4e910fbd58c",
+			"name": "wisconsin.jpg",
+			"visible": true,
+			"order": 1,
+			"opacity": 0.35,
+			"imageId": "7a33a984f26bfd84"
+		}
+	],
+	"baseMap": null
+}
