@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Wisconsin",
-	"updatedAt": "2026-08-14T19:18:01.772Z",
+	"updatedAt": "2026-08-18T14:49:23.148Z",
 	"layers": [
 		{
 			"kind": "annotation",
@@ -17,7 +17,7 @@
 			"name": "wisconsin.jpg",
 			"visible": true,
 			"order": 1,
-			"opacity": 0.35,
+			"opacity": 0.55,
 			"imageId": "7a33a984f26bfd84"
 		}
 	],

@@ -9,7 +9,7 @@
 				"stroke": "#555555",
 				"fill": "#555555",
 				"title": "Edgerton, WI",
-				"description": "David's hometown!"
+				"description": "David's hometown! Population of 5,000"
 			},
 			"geometry": {
 				"type": "Point",
@@ -27,7 +27,8 @@
 				"stroke": "#388e3c",
 				"fill": "#388e3c",
 				"title": "Rock Country",
-				"fill-opacity": 0.2
+				"fill-opacity": 0.2,
+				"description": "The largest city in Rock County is Janesville, with a 60,000 population."
 			},
 			"geometry": {
 				"type": "Polygon",
