@@ -1,0 +1,24 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "51008590-bb50-4ad9-a0a4-9d2aa3b628c3",
+			"properties": {
+				"marker-color": "#1976d2",
+				"stroke": "#555555",
+				"fill": "#555555",
+				"title": "David's current neighborhood",
+				"description": "Known to residents as \"the stateline\"",
+				"marker-size": "large"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.04305736328035,
+					42.4452227160817
+				]
+			}
+		}
+	]
+}
